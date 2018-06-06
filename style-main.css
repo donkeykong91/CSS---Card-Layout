@@ -245,6 +245,10 @@ Card grid:
 			display: grid;
 			grid-template-columns: repeat(2, 1fr);
 		}
+
+		.card {
+			margin-bottom: 0;
+		}
 	}
 	.card a {
 		display: grid;
